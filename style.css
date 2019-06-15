@@ -1,6 +1,7 @@
 .navBar h1 {
     float: left;
     color: white;
+    text-align: center;
 } 
 .nav {
     background: white;
@@ -25,4 +26,10 @@ body {
 }
 .three:hover {
     background-color: teal;
+}
+.logo {
+    width: 100%;
+    background-color: teal;
+    color: white;
+    padding: 10px;
 }
