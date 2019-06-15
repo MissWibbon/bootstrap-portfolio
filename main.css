@@ -32,8 +32,16 @@ body {
     background-color: teal;
 }
 .logo {
-    width: 100%;
+    width: 30%;
     background-color: teal;
     color: white;
     padding: 10px;
+    float: left;
+}
+
+ul {
+    float: right;
+}
+.footer {
+    padding: 20px; background-color: #333; width: 100%; bottom: 0; border-top: 5px solid teal;
 }
