@@ -1,0 +1,39 @@
+.navBar h1 {
+    float: left;
+    color: white;
+    text-align: center;
+    margin: auto;
+} 
+.navBar {
+    margin: auto;
+}
+.nav {
+    background: white;
+}
+li {
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+}
+.container {
+    max-width: 960px;
+    margin: auto;
+}
+body {
+    background-image: url("/assets/folk-pattern-black.png");
+}
+.one:hover {
+    font-size: 30px;
+}
+.two:focus {
+    color: purple;
+}
+.three:hover {
+    background-color: teal;
+}
+.logo {
+    width: 100%;
+    background-color: teal;
+    color: white;
+    padding: 10px;
+}
